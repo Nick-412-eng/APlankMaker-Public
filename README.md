@@ -2,7 +2,7 @@
 
 APlankMaker is a DreamBot plank-production script by A167881.
 
-![APlankMaker](assets/aplankmaker-200.png)
+![APlankMaker](assets/aplankmaker-v3-200.png)
 
 ## Modes
 
@@ -27,6 +27,7 @@ The jar targets Java 8 bytecode for DreamBot compatibility.
 - Woodcutting Guild and Prifddinas routing are marked BETA.
 - Lunar altar switching, Lunar Plank Make, and Lunar world hopping are marked BETA.
 - Ironman mode disables all Grand Exchange actions.
+- BETA capabilities are available for users who want to help evaluate newer workflows. For the most predictable experience, use the primary Simple or Advanced sawmill modes and leave BETA options disabled.
 
 ## Source And SDN
 
