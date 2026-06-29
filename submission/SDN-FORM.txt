@@ -5,7 +5,7 @@ Name:
 APlankMaker
 
 Description:
-Makes planks with a clean setup flow, Simple auto-routing, Advanced sawmill controls, supported sawmill routes for Auburnvale, Prifddinas, Woodcutting Guild, and Varrock, owned-supply processing, Ironman-safe behavior, runtime editing, breaks, public bug reporting, and live statistics. Optional BETA/experimental workflows include GE restocking and selling plus a separate Lunar Plank Make mode with rune and staff staging, altar switching, and safe-world hopping. For the most stable experience, use Simple or Advanced sawmill mode and leave BETA options disabled until comfortable testing newer features.
+Makes planks with Simple auto-routing, Advanced sawmill controls, supported routes for Auburnvale, Prifddinas, Woodcutting Guild, and Varrock, owned-supply processing, Ironman-safe behavior, human-like mouse and idle behavior, off-screen cursor moments, configurable breaks, runtime editing, public bug reporting, diagnostics, and live statistics. Optional BETA/experimental workflows include GE restocking/selling and Lunar Plank Make with rune and staff staging, altar switching, and safe-world hopping.
 
 Search tags:
 plank maker, sawmill, construction, mahogany plank, teak plank, oak plank, lunar plank make, auburnvale
@@ -35,5 +35,5 @@ SDN Parameters:
 Leave blank.
 
 Request Notes:
-Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. All listed sawmill routes are supported, not experimental. GE restocking and selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping remain BETA/experimental. BETA capabilities are intended for users who want to evaluate newer workflows; for the most stable experience, leave BETA options disabled. Ironman mode disables all GE actions.
+Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. All listed sawmill routes are supported. Runtime includes human-like mouse behavior, natural idle moments, off-screen cursor behavior, configurable breaks, runtime editing, public bug reporting, diagnostics, and live statistics. GE restocking/selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping remain BETA/experimental. Ironman mode disables all GE actions.
 
