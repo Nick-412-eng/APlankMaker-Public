@@ -5,7 +5,7 @@ Name:
 APlankMaker
 
 Description:
-Makes planks with Simple auto-routing, Advanced sawmill controls, supported routes for Auburnvale, Prifddinas, Woodcutting Guild, and Varrock, owned-supply processing, Ironman-safe behavior, human-like mouse and idle behavior, off-screen cursor moments, configurable breaks, runtime editing, public bug reporting, diagnostics, and live statistics. Optional BETA/experimental workflows include GE restocking/selling and Lunar Plank Make with rune and staff staging, altar switching, and safe-world hopping.
+Makes planks at supported sawmills with Simple auto-routing and Advanced controls for Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Supports owned-supply processing, Ironman-safe behavior, humanized mouse and idle behavior, breaks, and optional equipment setup. Optional BETA/experimental workflows include GE restocking/selling and Lunar Plank Make.
 
 Search tags:
 plank maker, sawmill, construction, mahogany plank, teak plank, oak plank, lunar plank make, auburnvale
@@ -35,5 +35,5 @@ SDN Parameters:
 Leave blank.
 
 Request Notes:
-Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. All listed sawmill routes are supported. Runtime includes human-like mouse behavior, natural idle moments, off-screen cursor behavior, configurable breaks, runtime editing, public bug reporting, diagnostics, and live statistics. GE restocking/selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping remain BETA/experimental. Ironman mode disables all GE actions.
+Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. Supported sawmill routes include Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Runtime includes humanized mouse/idle behavior and breaks without requiring QuickStart parameters. GE restocking/selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping remain BETA/experimental. Ironman mode disables all GE actions. QuickStart is not supported; SDN Parameters should be left blank.
 
