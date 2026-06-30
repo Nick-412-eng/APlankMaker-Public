@@ -1,4 +1,4 @@
-# APlankMaker
+﻿# APlankMaker
 
 APlankMaker is a DreamBot plank-production script by PicNick.
 
@@ -12,7 +12,7 @@ APlankMaker is a DreamBot plank-production script by PicNick.
 
 ## Public Release
 
-- **Current public release:** v4.34
+- **Current public release:** v4.35
 - **Jar:** `releases/AI-Plank-Maker-DreamBot-Public.jar`
 - **DreamBot script/module name:** `APlankMaker`
 - **Java compatibility:** Java 8 bytecode; source validated with `javac --release 8` for SDN compatibility.
