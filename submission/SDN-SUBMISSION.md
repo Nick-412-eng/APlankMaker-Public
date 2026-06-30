@@ -2,7 +2,7 @@
 
 1. **Category:** Moneymaking
 2. **Name:** APlankMaker
-3. **Description:** Makes planks at supported sawmills with Simple auto-routing and Advanced controls for Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Supports owned-supply processing, Ironman-safe behavior, humanized mouse and idle behavior, breaks, and optional equipment setup. Optional BETA/experimental workflows include GE restocking/selling and Lunar Plank Make.
+3. **Description:** Makes planks at supported sawmills with Simple auto-routing and Advanced controls for Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Supports owned-supply processing, Ironman-safe behavior, humanized mouse and idle behavior, breaks, and optional equipment setup. Optional experimental workflows include GE restocking/selling and Lunar Plank Make.
 4. **Search tags:** plank maker, sawmill, construction, mahogany plank, teak plank, oak plank, lunar plank make, auburnvale
 5. **Thread URL:** Create the script thread in the DreamBot SDN Scripts forum, then paste its full URL.
 6. **Image:** `assets/aplankmaker-v3-200.png`
@@ -13,7 +13,7 @@
 11. **Script Repo:** Enter the exact name of the DreamBot-hosted repository issued through the Scripter Panel. Do not enter this GitHub repository.
 12. **Script Module:** APlankMaker
 13. **SDN Parameters:** Leave blank
-14. **Request Notes:** Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. Supported sawmill routes include Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Runtime includes humanized mouse/idle behavior and breaks without requiring QuickStart parameters. GE restocking/selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping remain BETA/experimental. Ironman mode disables all GE actions. QuickStart is not supported; SDN Parameters should be left blank.
+14. **Request Notes:** Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. Supported sawmill routes include Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Runtime includes humanized mouse/idle behavior and breaks without requiring QuickStart parameters. GE restocking/selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping are experimental. Ironman mode disables all GE actions. QuickStart is not supported; SDN Parameters should be left blank.
 
 ## Required SDN Module
 

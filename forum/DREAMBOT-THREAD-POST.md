@@ -1,10 +1,10 @@
-![APlankMaker](https://raw.githubusercontent.com/Nick-412-eng/APlankMaker-Public/main/forum/aplankmaker-banner.png)
+![APlankMaker](https://raw.githubusercontent.com/Nick-412-eng/APlankMaker-Public/main/forum/aplankmaker-bannerfinal.png)
 
 # APlankMaker
 
 Simple and Advanced plank making for supported sawmills.
 
-![APlankMaker Modes](https://raw.githubusercontent.com/Nick-412-eng/APlankMaker-Public/main/forum/aplankmaker-modes.png)
+![APlankMaker Modes](https://raw.githubusercontent.com/Nick-412-eng/APlankMaker-Public/main/forum/aplankmakerfinal-modes.png)
 
 ## What It Does
 
